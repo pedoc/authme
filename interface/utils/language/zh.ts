@@ -119,7 +119,7 @@ export const localeZH = {
 		manualEntrySecret: "秘钥 (必填)",
 		manualEntryDescription: "说明",
 		// tutorial
-		googleAuthTutorial: ["从 Google Authenticato 导出2FA 代码: 点击屏幕左上角的菜单:转移账户->导出账户", "从屏幕截图并保存二维码,或者如果你使用的是 Android 手机,可以用另一部手机拍照.将这些照片传输到你的电脑上", "进入 Authme 的 导入 页面: 侧边栏 -> 导入", "单击“选择图片”按钮，然后选择从手机传输的图片"],
+		googleAuthTutorial: ["从 Google Authenticator 导出2FA 代码: 点击屏幕左上角的菜单:转移账户->导出账户", "从屏幕截图并保存二维码,或者如果你使用的是 Android 手机,可以用另一部手机拍照.将这些照片传输到你的电脑上", "进入 Authme 的 导入 页面: 侧边栏 -> 导入", "单击“选择图片”按钮，然后选择从手机传输的图片"],
 		totpTutorial: ["前往您想要设置 2FA 的网站", "截取包含二维码的屏幕图像 (在Windows系统上使用 Win + Shift + S 组合键, 在macOS上使用 Cmd + Shift + 3 组合键) , 并保存为图片文件", "进入 Authme 的 导入 页面: 侧边栏 -> 导入", "单击“选择图片”按钮，然后选择刚刚保存的图片"],
 		authmeTutorial: ["在 Authme 中，转到“导出”页面，然后选择“导出 Authme 文件”，“您可以在 Authme 的导入页面上再次导入此文件"],
 		aegisTutorial: ["点击屏幕右上角的菜单: 设置 -> 导入与导出 -> 导出", "选择 Aegis JSON 格式并且取消选中加密复选框后导出", "将导出后的文件发送到电脑并从 Authme 导入"],
