@@ -1,4 +1,4 @@
-export const localeEN = {
+export const localeZH = {
 	common: {
 		confirm: "确认",
 		continue: "继续",
